@@ -1,3 +1,5 @@
 .devenv
 .devenv
 results/
+.rokit/
+.rokit
